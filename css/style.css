@@ -1166,8 +1166,8 @@ body.ie ._ibg img {
   height: 284px;
   position: relative;
   border-radius: 50%;
-  -webkit-box-shadow: -5px 13px 0px 0px #f89a9a49;
-          box-shadow: -5px 13px 0px 0px #f89a9a49;
+  -webkit-box-shadow: -5px 13px 0px 0px rgba(83, 82, 82, 0.231);
+          box-shadow: -5px 13px 0px 0px rgba(83, 82, 82, 0.231);
 }
 
 .hello__avatar img {
@@ -1176,7 +1176,7 @@ body.ie ._ibg img {
 }
 
 .recent-posts {
-  background: #edf7fa;
+  background: #a5a7a7;
   padding: 25px 0px 70px 0px;
 }
 
